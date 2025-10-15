@@ -1,0 +1,45 @@
+{
+  "entradas": [
+    "Muy buena pregunta,",
+    "La respuesta a tu duda es,",
+    "¡Excelente consulta!",
+    "Con respecto a tu pregunta,",
+    "Te comento lo siguiente,",
+    "Gracias por tu pregunta,",
+    "Déjame explicarte,",
+    "Claro, te cuento,"
+  ],
+  "salidas": [
+    "Cualquier consulta, no dudes en escribirme.",
+    "Estoy acá para ayudarte.",
+    "¡Vuelve pronto!",
+    "Si necesitas más información, estoy a tu disposición.",
+    "No dudes en consultarme de nuevo.",
+    "Espero haberte sido útil.",
+    "Quedo atento a cualquier otra pregunta.",
+    "Fue un gusto ayudarte."
+  ],
+  "saludos": [
+    "Hola!",
+    "¡Buenas!",
+    "¡Hola, cómo estás?",
+    "Saludos!",
+    "¡Qué tal!"
+  ],
+  "despedidas": [
+    "Adios!",
+    "¡Hasta luego!",
+    "Nos vemos pronto.",
+    "¡Que tengas un buen dia!",
+    "Hasta la próxima.",
+    "Un placer, hasta la próxima!"
+  ],
+  "agradecimientos":[
+    "no hay de que!",
+    "¡Con gusto!",
+    "A tu disposición.",
+    "¡Vuelve pronto!",
+    "Si necesitas más información, estoy a tu disposición.",
+    "No dudes en consultarme de nuevo."
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "historia_unsta": [
+    "cuando se fundó la universidad",
+    "historia de la unsta",
+    "origen de la universidad",
+    "quién fundó la unsta",
+    "en qué año se creó la unsta"
+  ],
+  "plan_estudios": [
+    "plan de estudios",
+    "materias",
+    "qué se cursa",
+    "qué asignaturas hay",
+    "qué materias dictan",
+    "cuáles son las materias de la carrera"
+  ],
+  "descripcion_carrera": [
+    "qué es la carrera de IA",
+    "descripción de la carrera",
+    "de qué trata la ingeniería en IA",
+    "qué enseña la carrera de inteligencia artificial"
+  ],
+  "perfil_profesional": [
+    "perfil del ingeniero en IA",
+    "qué hace un ingeniero en IA",
+    "objetivo profesional de la carrera",
+    "salidas laborales del ingeniero en IA",
+    "campo laboral de la carrera"
+  ],
+  "historia_facultad": [
+    "historia de la facultad",
+    "origen de la facultad",
+    "cuándo se fundó la facultad",
+    "fundación de la facultad de ingeniería",
+    "cuándo empezó la facultad de ingeniería"
+  ],
+  "duracion_carrera": [
+    "cuánto dura la carrera",
+    "duración de ingeniería en IA",
+    "materias y duración del plan de estudios",
+    "cómo es el ingreso a la carrera",
+    "dónde se dicta la carrera",
+    "cuántos años dura la carrera"
+  ],
+
+  "conocimiento_previo": [
+    "conocimiento previo en IA",
+    "requisitos de ingreso a la carrera",
+    "se necesita saber algo de IA para ingresar?",
+    "necesito saber programación para estudiar IA",
+    "hay curso de ingreso?"
+  ],
+  
+  "contacto": [
+    "contacto unsta",
+    "correo de contacto",
+    "mail de contacto",
+    "teléfono de la universidad",
+    "cómo me comunico con la unsta",
+    "dónde puedo escribir para pedir información"
+  ],
+
+  "despedida": [
+    "chau",
+    "nos vemos",
+    "hasta luego",
+    "saludos"
+  ],
+
+  "agradecimiento": [
+    "gracias",
+    "te agradezco",
+    "muchas gracias",
+    "muy amable",
+    "gracias por la info",
+    "muchas gracias",
+    "gracias por la información",
+    "te agradezco",
+    "muy amable",
+    "gracias por responder",
+    "gracias por la ayuda"
+  ]
+}

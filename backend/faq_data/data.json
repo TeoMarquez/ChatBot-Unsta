@@ -1,0 +1,36 @@
+{
+  "historia_unsta": {
+    "short": "La UNSTA fue fundada en 1965 por la Orden de Predicadores.",
+    "long": "La Universidad del Norte Santo Tomás de Aquino (UNSTA) fue reconocida oficialmente el 6 de agosto de 1965..."
+  },
+  "plan_estudios": {
+    "short": "El plan incluye materias de IA, programación y ciencia de datos.",
+    "long": "El plan de estudios incluye materias como Fundamentos de Inteligencia Artificial..."
+  },
+  
+  "contacto": {
+    "short": "Podés contactarnos al correo info@unsta.edu.ar",
+    "long": "Para consultas administrativas o académicas, podés escribir a info@unsta.edu.ar o llamar al +54 381 123-4567."
+  },
+    "descripcion_carrera": {
+    "short": "La Ingeniería en IA forma profesionales capaces de diseñar sistemas inteligentes y automatizar procesos en distintos sectores.",
+    "long": "La carrera responde a la necesidad de dar respuesta, desde la ingeniería, a los diferentes sectores de la sociedad, a la demanda de soluciones tecnológicas innovadoras relacionadas a sistemas inteligentes, aprendizaje de máquina, procesamiento de lenguaje natural, visión artificial y modelos bioinspirados. La formación incluye también contenidos humanísticos y reflexiones éticas sobre la IA."
+  },
+  "perfil_profesional": {
+    "short": "El ingeniero/a en IA optimiza procesos y gestiona productos inteligentes.",
+    "long": "El profesional en IA estará capacitado para diseñar soluciones de IA en industria, transporte, agroindustria, medioambiente y medicina; liderar proyectos de innovación; evaluar impacto tecnológico y social; participar en grupos de investigación; y ponderar las implicancias epistemológicas, antropológicas y éticas de los avances logrados."
+  },
+  "historia_facultad": {
+    "short": "La Facultad de Ingeniería inició sus actividades en 1965.",
+    "long": "La Facultad de Ingeniería de la UNSTA fue creada el 26 de noviembre de 1964 y comenzó en 1965. En 1985 se creó la carrera de Técnico en Higiene y Seguridad en el Trabajo. En 1986 se firmó un convenio con universidades católicas del NOA para desarrollar programas conjuntos. En 1990 se incorpora Ingeniería Informática y en 2002 se definen los 3 ejes educativos: Producción, Informática y Ambiente. En 2007 se traslada al nuevo Campus Yerba Buena."
+  },
+  "duracion_carrera": {
+    "short": "La carrera de Ingeniería en IA dura 5 años.",
+    "long": "La Ingeniería en IA consta de 5 años, con curso introductorio en materias como Matemáticas, Estadística y Tecnología. Además, incluye un seminario de vida universitaria al ingreso y se dicta presencialmente en el campus Yerba Buena."
+  },
+  "conocimiento_previo": {
+    "short": "No se requiere conocimiento previo en IA para ingresar, los ingresantes cuentan con un curso introductorio en materias como Matemáticas, Estadística y Tecnología.",
+    "long": "No es necesario tener conocimientos previos en inteligencia artificial para ingresar a la carrera. El plan de estudios está diseñado para formar desde los fundamentos hasta las aplicaciones avanzadas."
+  }
+
+}
