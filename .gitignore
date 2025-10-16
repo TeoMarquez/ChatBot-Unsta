@@ -6,12 +6,8 @@
 # === Backend ===
 /backend/__pycache__/
 /backend/embeddings/*
-!/backend/embeddings/.gitkeep  # mantiene la carpeta embeddings
 /backend/*.pt
 
 # === Frontend ===
 /frontend/node_modules/
-/frontend/public/*
-!/frontend/public/.gitkeep      # mantiene la carpeta public
-/frontend/src/*
-!/frontend/src/.gitkeep         # mantiene la carpeta src
+.env
