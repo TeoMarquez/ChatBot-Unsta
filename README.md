@@ -14,7 +14,8 @@ Chatbot UNSTA es una API de chatbot desarrollada con FastAPI y Sentence Transfor
 - Respuestas a saludos, despedidas y preguntas sociales.
 - Soporte de embeddings precomputados para rendimiento.
 - Compatible con requests asincrónicos.
-- Middleware CORS 
+- Middleware CORS
+- GUI realizada con React-MUI
 
 ## Instalación
 
@@ -81,24 +82,23 @@ Respuesta de ejemplo:
 ```
 
 ## Estructura del proyecto
-chatbot-unsta/
-├─ backend/
-│  ├─ app.py                  # Código principal de FastAPI
-│  ├─ faq_data/
-│  │  ├─ data.json            
-│  │  ├─ intents.json         
-│  │  ├─ extras.json           
-│ 
-├─ frontend/               
-│  │  public/
-│  │  ├─ index.html
-│  │  src/
-│  │  ├─ assets/
-│  │  ├─ components/
-│  │  ├─ hooks/
-│  │  ├─ views/
-│  │  app.tsx
-│  │  index.js
+- chatbot-unsta/
+  - backend/
+    - app.py
+    - faq_data/
+      - data.json
+      - intents.json
+      - extra.json
+  - frontend/
+    - public/
+      - index.html
+    - src/
+      - assets/     # images
+      - components/  
+      - hooks/      # method post
+      - views/      # wrapped components
+    - app.tsx
+    - index.js              
 
 ## Notas importantes
 La primera ejecución generará los embeddings lo que puede tardar algunos segundos.
