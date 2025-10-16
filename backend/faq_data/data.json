@@ -1,36 +1,205 @@
 {
   "historia_unsta": {
     "short": "La UNSTA fue fundada en 1965 por la Orden de Predicadores.",
-    "long": "La Universidad del Norte Santo Tomás de Aquino (UNSTA) fue reconocida oficialmente el 6 de agosto de 1965..."
-  },
-  "plan_estudios": {
-    "short": "El plan incluye materias de IA, programación y ciencia de datos.",
-    "long": "El plan de estudios incluye materias como Fundamentos de Inteligencia Artificial..."
+    "long": "La Universidad del Norte Santo Tomás de Aquino (UNSTA) fue reconocida oficialmente el 6 de agosto de 1965 por la orden de los predicadores"
   },
   
   "contacto": {
     "short": "Podés contactarnos al correo info@unsta.edu.ar",
     "long": "Para consultas administrativas o académicas, podés escribir a info@unsta.edu.ar o llamar al +54 381 123-4567."
   },
-    "descripcion_carrera": {
-    "short": "La Ingeniería en IA forma profesionales capaces de diseñar sistemas inteligentes y automatizar procesos en distintos sectores.",
-    "long": "La carrera responde a la necesidad de dar respuesta, desde la ingeniería, a los diferentes sectores de la sociedad, a la demanda de soluciones tecnológicas innovadoras relacionadas a sistemas inteligentes, aprendizaje de máquina, procesamiento de lenguaje natural, visión artificial y modelos bioinspirados. La formación incluye también contenidos humanísticos y reflexiones éticas sobre la IA."
-  },
-  "perfil_profesional": {
-    "short": "El ingeniero/a en IA optimiza procesos y gestiona productos inteligentes.",
-    "long": "El profesional en IA estará capacitado para diseñar soluciones de IA en industria, transporte, agroindustria, medioambiente y medicina; liderar proyectos de innovación; evaluar impacto tecnológico y social; participar en grupos de investigación; y ponderar las implicancias epistemológicas, antropológicas y éticas de los avances logrados."
-  },
+  
   "historia_facultad": {
     "short": "La Facultad de Ingeniería inició sus actividades en 1965.",
     "long": "La Facultad de Ingeniería de la UNSTA fue creada el 26 de noviembre de 1964 y comenzó en 1965. En 1985 se creó la carrera de Técnico en Higiene y Seguridad en el Trabajo. En 1986 se firmó un convenio con universidades católicas del NOA para desarrollar programas conjuntos. En 1990 se incorpora Ingeniería Informática y en 2002 se definen los 3 ejes educativos: Producción, Informática y Ambiente. En 2007 se traslada al nuevo Campus Yerba Buena."
   },
-  "duracion_carrera": {
+
+  "plan_estudios_ing_ia": {
+    "short": "El plan incluye materias de IA, programación y ciencia de datos.",
+    "long": "El plan de estudios incluye materias como Fundamentos de Inteligencia Artificial..."
+  },
+  "descripcion_carrera_ing_ia": {
+    "short": "La Ingeniería en IA forma profesionales capaces de diseñar sistemas inteligentes y automatizar procesos en distintos sectores.",
+    "long": "La carrera responde a la necesidad de dar respuesta, desde la ingeniería, a los diferentes sectores de la sociedad, a la demanda de soluciones tecnológicas innovadoras relacionadas a sistemas inteligentes, aprendizaje de máquina, procesamiento de lenguaje natural, visión artificial y modelos bioinspirados. La formación incluye también contenidos humanísticos y reflexiones éticas sobre la IA."
+  },
+  "perfil_profesional_ing_ia": {
+    "short": "El ingeniero/a en IA optimiza procesos y gestiona productos inteligentes.",
+    "long": "El profesional en IA estará capacitado para diseñar soluciones de IA en industria, transporte, agroindustria, medioambiente y medicina; liderar proyectos de innovación; evaluar impacto tecnológico y social; participar en grupos de investigación; y ponderar las implicancias epistemológicas, antropológicas y éticas de los avances logrados."
+  },
+
+  "duracion_carrera_ing_ia": {
     "short": "La carrera de Ingeniería en IA dura 5 años.",
     "long": "La Ingeniería en IA consta de 5 años, con curso introductorio en materias como Matemáticas, Estadística y Tecnología. Además, incluye un seminario de vida universitaria al ingreso y se dicta presencialmente en el campus Yerba Buena."
   },
-  "conocimiento_previo": {
+
+  "conocimiento_previo_ing_ia": {
     "short": "No se requiere conocimiento previo en IA para ingresar, los ingresantes cuentan con un curso introductorio en materias como Matemáticas, Estadística y Tecnología.",
     "long": "No es necesario tener conocimientos previos en inteligencia artificial para ingresar a la carrera. El plan de estudios está diseñado para formar desde los fundamentos hasta las aplicaciones avanzadas."
-  }
+  },
+  "donde_se_cursa_IngIA": {
+    "short": "La carrera de Ingeniería en IA se dicta en el campus Yerba Buena de la UNSTA.",
+    "long": "La carrera de Ingeniería en Inteligencia Artificial se cursa de forma presencial en el Campus Yerba Buena de la Universidad del Norte Santo Tomás de Aquino (Av. Perón 2085, Yerba Buena, Tucumán)."
+  },
+  
+  "plan_estudios_bioingenieria": {
+    "short": "El plan de estudios de Bioingeniería de UNSTA abarca cinco años, combinando ciencias básicas, biología, informática, electrónica y formación humanística.",
+    "long": "El plan de estudios de Bioingeniería de UNSTA se desarrolla en cinco años y propone una formación interdisciplinaria que integra ciencias básicas, biológicas, informáticas, electrónicas y de ingeniería. A lo largo de la carrera, los estudiantes cursan asignaturas como Matemática, Física, Química, Biología Molecular, Programación, Bioinstrumentación, Bioinformática, Biomateriales, Bioprocesos y Bioingeniería de Alimentos. Además, se incluyen talleres de Bioingeniería, prácticas profesionales y un Proyecto Final Integrador, orientados a la aplicación real de los conocimientos adquiridos en contextos biomédicos, industriales y medioambientales."
+  },
+  "descripcion_carrera_bioingenieria": {
+    "short": "Forma profesionales que aplican la ingeniería para desarrollar tecnologías que mejoren la vida y la salud de los seres vivos.",
+    "long": "La carrera de Bioingeniería en UNSTA prepara profesionales capaces de diseñar, desarrollar y aplicar tecnologías que mejoren la calidad de vida de las personas y los procesos biológicos en general. El Bioingeniero combina conocimientos de anatomía, fisiología, biología, electrónica, mecánica e informática para resolver problemas en medicina, agroindustria, alimentos y medio ambiente. Desde la creación de prótesis y órganos artificiales hasta la detección de plagas mediante inteligencia artificial, esta disciplina impulsa la innovación tecnológica con responsabilidad ética y social."
+  },
+  "perfil_profesional_bioingenieria": {
+    "short": "Profesional interdisciplinario que integra ingeniería, biología y tecnología para resolver problemas en salud, industria y ambiente.",
+    "long": "El Bioingeniero de UNSTA está capacitado para analizar, diseñar, desarrollar y gestionar dispositivos, procesos y tecnologías aplicadas a la biología, la medicina y la industria. Puede desempeñarse en hospitales, laboratorios, empresas tecnológicas, agroindustrias y centros de investigación. Su formación abarca áreas como bioinstrumentación, biomecánica, bioinformática, ingeniería clínica y de tejidos, lo que le permite trabajar en el desarrollo de biosensores, biomateriales, software biomédico, rehabilitación y bioprocesos industriales, con un enfoque ético, innovador y sustentable."
+  },
+  "duracion_carrera_bioingenieria": {
+    "short": "Duración: 5 años.",
+    "long": "La carrera de Bioingeniería tiene una duración de cinco años bajo modalidad presencial. A lo largo de la cursada, el estudiante integra conocimientos teóricos y prácticos mediante talleres, laboratorios, seminarios y prácticas profesionales que fortalecen su perfil científico y tecnológico."
+  },
+  "conocimiento_previo_bioingenieria": {
+    "short": "Se recomienda interés por la biología, la tecnología y la resolución de problemas.",
+    "long": "Para ingresar a Bioingeniería en UNSTA no se requieren conocimientos avanzados previos. Se recomienda afinidad por las ciencias naturales, la matemática, la programación y la tecnología. El primer año ofrece una formación introductoria en química, física, biología e informática, que permite nivelar los conocimientos necesarios para abordar los desafíos multidisciplinarios de la carrera. El curso de ingreso es nivelatorio y está orientado a facilitar la adaptación al ámbito universitario."
+  },
+  "donde_se_cursa_Bioingenieria": {
+    "short": "La carrera de Bioingeniería se dicta en el campus Yerba Buena de UNSTA.",
+    "long": "La carrera de Bioingeniería se cursa de forma presencial en el Campus Yerba Buena de la Universidad del Norte Santo Tomás de Aquino (Av. Perón 2085, Yerba Buena, Tucumán)."
+  },
+  "plan_estudios_ing_industrial": {
+    "short": "El plan de estudios de Ingeniería Industrial de UNSTA abarca cinco años, combinando ciencias básicas, ingeniería, gestión empresarial y formación humanística.",
+    "long": "El plan de estudios de Ingeniería Industrial de UNSTA se desarrolla en cinco años e integra formación científica, técnica, humanística y de gestión. Durante la carrera, los estudiantes cursan materias como Física, Matemática, Química, Electrónica, Termodinámica, Procesos Industriales, Economía para Ingenieros, Producción Industrial, Costos, Logística y Formulación de Proyectos. Los Talleres Integradores, la Práctica Profesional Supervisada y el Proyecto Final consolidan una formación orientada al liderazgo, la optimización de procesos y la innovación en entornos productivos y de servicios."
+  },
+  "descripcion_carrera_ing_industrial": {
+    "short": "Forma profesionales capaces de optimizar procesos, liderar equipos y mejorar la productividad en organizaciones de bienes y servicios.",
+    "long": "La carrera de Ingeniería Industrial en UNSTA forma profesionales con una sólida base científica, técnica y humanística, preparados para enfrentar los desafíos de un entorno globalizado y tecnológicamente dinámico. El Ingeniero Industrial combina capacidades analíticas y de gestión para diseñar, implementar y optimizar sistemas productivos, logísticos y administrativos, promoviendo la eficiencia, la calidad y la sostenibilidad. Su formación lo orienta a la innovación, el liderazgo y la responsabilidad social dentro del ámbito empresarial e industrial."
+  },
+  "perfil_profesional_ing_industrial": {
+    "short": "Profesional integral que gestiona, planifica y mejora procesos en industrias y organizaciones de servicios.",
+    "long": "El Ingeniero Industrial de UNSTA es un profesional integral, multidisciplinar y creativo, con competencias para analizar, diseñar y optimizar procesos productivos y administrativos. Está preparado para liderar equipos de trabajo, gestionar recursos, evaluar proyectos, mejorar la productividad y garantizar la calidad de bienes y servicios. Su perfil combina conocimientos en ciencias básicas, ingeniería, economía, gestión empresarial y formación humanística, con un enfoque orientado al desarrollo sustentable y la mejora continua. Puede desempeñarse en industrias, empresas de servicios, consultoras, organismos públicos y emprendimientos propios."
+  },
+  "duracion_carrera_ing_industrial": {
+    "short": "Duración: 5 años.",
+    "long": "La carrera de Ingeniería Industrial de UNSTA tiene una duración de cinco años bajo modalidad presencial. La formación incluye asignaturas teóricas y prácticas, talleres integradores, seminarios de especialización, prácticas profesionales y un Proyecto Final, que consolidan la preparación técnica y gerencial del futuro ingeniero."
+  },
+  "conocimiento_previo_ing_industrial": {
+    "short": "Se recomienda interés por la matemática, la física, la gestión y la tecnología.",
+    "long": "Para ingresar a Ingeniería Industrial en UNSTA no se requieren conocimientos avanzados previos. Es recomendable contar con una base en matemáticas, física y razonamiento lógico, así como interés por la gestión de procesos y la innovación tecnológica. El plan de estudios está diseñado para desarrollar progresivamente las competencias necesarias, comenzando con materias básicas y avanzando hacia áreas de ingeniería aplicada, economía y administración industrial."
+  },
+  "donde_se_cursa_IngIndustrial": {
+    "short": "La carrera de Ingeniería Industrial se dicta en los campus Concepción y Yerba Buena de UNSTA.",
+    "long": "La carrera de Ingeniería Industrial de UNSTA se cursa de manera presencial en los campus Concepción (Av. Roca 37, Concepción, Tucumán) y Yerba Buena (Av. Perón 2085, Yerba Buena, Tucumán)."
+  },
+  "plan_estudios_ing_ambiental": {
+    "short": "El plan de estudios de Ingeniería Ambiental de UNSTA abarca cinco años, integrando ciencias básicas, ingeniería y gestión ambiental.",
+    "long": "El plan de estudios de Ingeniería Ambiental de UNSTA se desarrolla en cinco años y propone una formación multidisciplinaria que combina ciencias básicas, biología, química, física, ingeniería y gestión ambiental. Los estudiantes cursan materias como Matemática, Física, Química, Ecología, Biología Aplicada, Ingeniería de Residuos, Termodinámica, Procesos Industriales, Hidrología, Energía y Medio Ambiente, y Sistemas de Georeferenciación. Además, se incluyen talleres, seminarios, prácticas profesionales y un Proyecto Final Integrador, orientados a la aplicación práctica de los conocimientos para la preservación y mejora del entorno ambiental."
+  },
+  "descripcion_carrera_ing_ambiental": {
+    "short": "Forma profesionales capaces de diseñar y gestionar soluciones para la protección y mejora del medio ambiente.",
+    "long": "La Ingeniería Ambiental en UNSTA prepara profesionales con competencias para diseñar, ejecutar y operar obras e instalaciones destinadas al cuidado del medio ambiente. Su formación permite optimizar el uso de energías y recursos naturales, promover el desarrollo sostenible y mitigar impactos ambientales negativos. Los ingenieros ambientales integran conocimientos de ciencias básicas, biología, química, física e ingeniería para dar respuesta a los desafíos ambientales locales e internacionales, mediante un enfoque ético, responsable y con visión de mejora continua de la calidad ambiental."
+  },
+  "perfil_profesional_ing_ambiental": {
+    "short": "Profesional que gestiona recursos, controla impactos y desarrolla soluciones sostenibles en diferentes sectores.",
+    "long": "El Ingeniero Ambiental de UNSTA está capacitado para analizar, planificar y gestionar proyectos y procesos orientados a la preservación y mejora del medio ambiente. Puede desempeñarse en empresas, industrias, organismos públicos, consultoras ambientales, ONGs y proyectos de desarrollo urbano o rural, participando en la gestión de residuos, control de la contaminación, monitoreo ambiental, planificación territorial y evaluación de riesgos. Su formación multidisciplinaria le permite integrar conocimientos científicos, tecnológicos y de gestión con un enfoque ético y sostenible."
+  },
+  "duracion_carrera_ing_ambiental": {
+    "short": "Duración: 5 años.",
+    "long": "La carrera de Ingeniería Ambiental de UNSTA tiene una duración de cinco años, con modalidad presencial. Incluye asignaturas teóricas y prácticas, talleres, seminarios, visitas a plantas industriales y de servicios, prácticas profesionales y un Proyecto Final Integrador, que consolidan las competencias técnicas y profesionales del estudiante."
+  },
+  "conocimiento_previo_ing_ambiental": {
+    "short": "Se recomienda interés por la biología, química, física y resolución de problemas ambientales.",
+    "long": "Para ingresar a Ingeniería Ambiental en UNSTA no se requieren conocimientos avanzados previos. Se recomienda tener afinidad por las ciencias naturales, matemáticas, física, química y la tecnología. La formación inicial incluye materias introductorias y nivelatorias que permiten adquirir los fundamentos necesarios para abordar los desafíos multidisciplinarios de la carrera y desarrollarse en áreas de gestión ambiental, ingeniería de procesos y sostenibilidad."
+  },
+  "donde_se_cursa_IngAmbiental": {
+    "short": "La información sobre sedes e inscripciones está disponible en la página oficial de la UNSTA.",
+    "long": "Para enterarte de las inscripciones, sedes, horarios y demás información sobre la carrera de Ingeniería Ambiental, podés consultar la página oficial de la UNSTA en unsta.edu.ar."
+  },
+
+  "plan_estudios_tecnicatura_informatica": {
+    "short": "El plan de la Tecnicatura en Desarrollo y Calidad de Software de UNSTA se cursa en 2,5 años, integrando programación, bases de datos, control de calidad y desarrollo web.",
+    "long": "El plan de estudios de la Tecnicatura en Desarrollo y Calidad de Software de UNSTA se desarrolla en 2 años y medio y combina formación técnica en programación, desarrollo de aplicaciones, bases de datos, control de calidad y metodologías de testing. Incluye asignaturas como Algoritmos y Paradigmas, Desarrollo de Software, Desarrollo Front End y Back End, Testeo Automatizado, Seminarios Informáticos y Proyecto Final. Además, se integran materias de formación humanística e inglés, y se promueve la práctica en proyectos reales para consolidar competencias profesionales en entornos de software."
+  },
+  "descripcion_carrera_tecnicatura_informatica": {
+    "short": "Forma técnicos capaces de desarrollar, mantener y controlar la calidad de aplicaciones de software.",
+    "long": "La Tecnicatura en Desarrollo y Calidad de Software en UNSTA prepara profesionales con competencias para participar en proyectos de software, colaborar en el desarrollo, implementación y mantenimiento de aplicaciones, y aplicar estrategias de control de calidad. El programa combina conocimientos de programación, bases de datos, desarrollo web y testing automatizado, con formación humanística e inglés. El egresado puede integrarse a equipos interdisciplinarios, adaptarse a nuevas tecnologías y aplicar su conocimiento de manera ética y responsable."
+  },
+  "perfil_profesional_tecnicatura_informatica": {
+    "short": "Técnico capacitado para desarrollar, mantener y testear software, trabajando en equipos multidisciplinarios.",
+    "long": "El técnico en Desarrollo y Calidad de Software de UNSTA está preparado para participar en el análisis, diseño, desarrollo, implementación y mantenimiento de aplicaciones de software. Puede ejecutar pruebas y aplicar metodologías de control de calidad para reducir riesgos en proyectos. Su perfil incluye competencias en desarrollo Front End y Back End, desarrollo de aplicaciones web, interacción con clientes y trabajo en equipos interdisciplinarios, con un enfoque ético y responsable ante los desafíos tecnológicos."
+  },
+  "duracion_carrera_tecnicatura_informatica": {
+    "short": "Duración: 2 años y medio.",
+    "long": "La Tecnicatura en Desarrollo y Calidad de Software de UNSTA tiene una duración de 2 años y medio, cursándose de manera presencial. Incluye asignaturas técnicas, humanísticas, inglés y prácticas en proyectos reales, finalizando con un Proyecto Final integrador que consolida la experiencia profesional del estudiante."
+  },
+  "conocimiento_previo_tecnicatura_informatica": {
+    "short": "Se recomienda interés por la programación, lógica y resolución de problemas.",
+    "long": "Para ingresar a la Tecnicatura en Desarrollo y Calidad de Software en UNSTA no se requieren conocimientos avanzados previos. Se recomienda afinidad por la programación, la informática y el razonamiento lógico. El plan incluye materias introductorias que permiten adquirir los fundamentos necesarios para desarrollarse en programación, bases de datos, control de calidad y desarrollo de aplicaciones web."
+  },
+  "donde_se_cursaTecInformatica": {
+    "short": "La tecnicatura se dicta en los campus de la UNSTA, con información de inscripciones en la página oficial.",
+    "long": "La Tecnicatura en Desarrollo y Calidad de Software se cursa de manera presencial en los campus Yerba Buena y Concepción de la UNSTA. Para consultar información sobre inscripciones, sedes, horarios y requisitos, podés ingresar a la página oficial de la universidad: unsta.edu.ar."
+  },
+  "plan_estudios_tecnicatura_robotica": {
+    "short": "El plan de la Tecnicatura en Robótica y Automatización de UNSTA se cursa en 2,5 años e integra electrónica, programación, automatización y robótica industrial.",
+    "long": "El plan de estudios de la Tecnicatura en Robótica y Automatización de UNSTA tiene una duración de 2 años y medio (5 semestres) y propone una formación técnica completa en automatización industrial y robótica. Incluye materias como Introducción a Sistemas Automáticos, Electrotecnia, Mecánica Básica, Electrónica Básica, Programación, Microprocesadores, Hidráulica y Neumática, Sistemas y Señales, Robótica 1 y 2, Sistemas de Control, Seguridad Industrial y Proyecto Final. Además, se integran asignaturas de formación humanística e inglés para consolidar competencias transversales y la capacidad de trabajar en entornos multidisciplinarios."
+  },
+  "descripcion_carrera_tecnicatura_robotica": {
+    "short": "Forma técnicos capaces de operar, programar y diseñar sistemas de automatización y robótica industrial.",
+    "long": "La Tecnicatura en Robótica y Automatización de UNSTA prepara profesionales capaces de mantener, operar, ajustar y programar sistemas de control robóticos e industriales. El egresado puede diseñar automatizaciones industriales básicas, ensamblar y manipular estructuras mecánicas, y programar dispositivos de control. Su formación combina conocimientos de electrónica, mecánica, hidráulica, neumática y programación, permitiéndole responder a la demanda creciente de la industria regional y participar activamente en la digitalización y automatización de procesos industriales."
+  },
+  "perfil_profesional_tecnicatura_robotica": {
+    "short": "Técnico capacitado para operar, mantener y programar robots y sistemas de automatización industrial.",
+    "long": "El técnico en Robótica y Automatización de UNSTA está preparado para operar y mantener sistemas de control robóticos e industriales, ajustar y poner a punto dispositivos de automatización, ensamblar componentes mecánicos y electrónicos, y programar sistemas de control. Su perfil incluye competencias en diseño de automatizaciones industriales básicas, trabajo interdisciplinario y adaptación a nuevas tecnologías, con enfoque en la eficiencia, seguridad y calidad en entornos industriales."
+  },
+  "duracion_carrera_tecnicatura_robotica": {
+    "short": "Duración: 2 años y medio (5 semestres).",
+    "long": "La Tecnicatura en Robótica y Automatización de UNSTA tiene una duración de 2 años y medio, cursándose de manera presencial. La formación combina asignaturas técnicas, prácticas en laboratorios y talleres, seminarios y un Proyecto Final que permite aplicar los conocimientos adquiridos en contextos reales de la industria."
+  },
+  "conocimiento_previo_tecnicatura_robotica": {
+    "short": "Se recomienda interés por electrónica, mecánica, programación y automatización industrial.",
+    "long": "Para ingresar a la Tecnicatura en Robótica y Automatización en UNSTA no se requieren conocimientos avanzados previos, aunque se recomienda afinidad por la electrónica, mecánica, programación y la automatización de procesos. La carrera inicia con materias introductorias que permiten adquirir los fundamentos necesarios para desenvolverse en robótica, control de sistemas, hidráulica y neumática, así como en la programación de dispositivos industriales."
+  },
+  "donde_se_cursaTecRobotica": {
+    "short": "La tecnicatura se dicta en el campus Yerba Buena de la UNSTA.",
+    "long": "La Tecnicatura en Robótica y Automatización se cursa de manera presencial en el campus Yerba Buena de la UNSTA. Para consultar información sobre inscripciones, horarios y requisitos, podés ingresar a la página oficial de la universidad: unsta.edu.ar."
+  },
+  "social_preguntas": [
+    "¡Hola! Espero que estés muy bien 😊",
+    "Estoy acá para ayudarte con cualquier duda que tengas sobre la facultad de ingeniería.",
+    "¡Hola! ¿Cómo va todo por la universidad?",
+    "Todo bien por acá, ¿y vos cómo estás?",
+    "¡Hola! Listo para responder tus preguntas sobre carreras y materias de la UNSTA."
+  ],
+  "social_habilidades": [
+    "Puedo ayudarte a conocer las carreras que ofrece la UNSTA, sus planes de estudio, duración y perfiles profesionales.",
+    "Sirvo para responder dudas sobre materias, planes de estudio, inscripción y todo lo relacionado con ingeniería en la UNSTA.",
+    "Mis funciones incluyen informar sobre carreras, tecnicaturas, materias, perfiles profesionales y ayudarte a orientarte en la universidad.",
+    "Puedo brindarte información académica, plan de estudios, perfiles profesionales y responder preguntas frecuentes sobre la UNSTA.",
+    "Tengo conocimientos sobre ingeniería, bioingeniería, ambiental, industrial, electrónica, programación, robótica y mucho más."
+  ],
+  "opciones": [
+    "En la UNSTA podés estudiar carreras como Ingeniería en Informática, Bioingeniería, Ingeniería Industrial, Ingeniería Ambiental, y tecnicaturas en desarrollo de software y robótica.",
+    "La UNSTA ofrece varias opciones de estudio: ingenierías, tecnicaturas y programas de formación profesional.",
+    "Podés estudiar carreras de ingeniería como Informática, Bioingeniería, Industrial, Ambiental, y tecnicaturas en software y robótica.",
+    "Las opciones de la UNSTA incluyen ingenierías y tecnicaturas orientadas a la tecnología, desarrollo y gestión."
+  ],
+  "social_info_creacion": [
+    "Fui creado por Mateo Marquez, estudiante de primer año de Ingeniería en Inteligencia Artificial en UNSTA.",
+    "Mi creador es Mateo Marquez, que me programó para ayudarte con información de carreras y materias de ingeniería.",
+    "Fui construido por Mateo Marquez para ser un asistente educativo sobre ingeniería y tecnología."
+  ],
+  "social_info_funcionamiento": [
+    "Fui construido usando Python y React. Soy un modelo de inteligencia artificial de lazo cerrado que puede responder preguntas y guiar sobre carreras de ingeniería, materias, planes de estudio y más.",
+    "Funciono gracias a Python y React, y mi objetivo es ayudarte con información académica de manera rápida y clara.",
+    "Estoy hecho con Python y React, y fui diseñado para procesar preguntas sobre la UNSTA y sus carreras de ingeniería, dando respuestas estructuradas y fáciles de entender."
+  ],
+  "social_respuestas": [
+    "¡Me alegra escucharlo! 😊",
+    "Genial, me alegra que todo vaya bien.",
+    "Qué bueno, espero que sigas disfrutando tu día.",
+    "Perfecto, si necesitás info sobre carreras o materias, estoy acá para ayudarte.",
+    "Me alegra que estés bien. ¿Querés que te cuente algo sobre la UNSTA?",
+    "Qué bueno que estés ocupado aprendiendo, ¡eso siempre suma!",
+    "¡Excelente! Si te surge alguna duda sobre ingeniería, podés preguntarme."
+  ]
 
 }

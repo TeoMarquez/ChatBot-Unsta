@@ -1,63 +1,84 @@
 {
   "historia_unsta": [
     "cuando se fundó la universidad",
-    "historia de la unsta",
+    "historia de la universidad unsta",
     "origen de la universidad",
-    "quién fundó la unsta",
-    "en qué año se creó la unsta"
+    "quién fundó la unsta"
   ],
-  "plan_estudios": [
-    "plan de estudios",
-    "materias",
-    "qué se cursa",
-    "qué asignaturas hay",
-    "qué materias dictan",
-    "cuáles son las materias de la carrera"
-  ],
-  "descripcion_carrera": [
-    "qué es la carrera de IA",
-    "descripción de la carrera",
-    "de qué trata la ingeniería en IA",
-    "qué enseña la carrera de inteligencia artificial"
-  ],
-  "perfil_profesional": [
-    "perfil del ingeniero en IA",
-    "qué hace un ingeniero en IA",
-    "objetivo profesional de la carrera",
-    "salidas laborales del ingeniero en IA",
-    "campo laboral de la carrera"
-  ],
-  "historia_facultad": [
+   "historia_facultad": [
     "historia de la facultad",
     "origen de la facultad",
     "cuándo se fundó la facultad",
     "fundación de la facultad de ingeniería",
     "cuándo empezó la facultad de ingeniería"
   ],
-  "duracion_carrera": [
-    "cuánto dura la carrera",
-    "duración de ingeniería en IA",
-    "materias y duración del plan de estudios",
-    "cómo es el ingreso a la carrera",
-    "dónde se dicta la carrera",
-    "cuántos años dura la carrera"
-  ],
-
-  "conocimiento_previo": [
-    "conocimiento previo en IA",
-    "requisitos de ingreso a la carrera",
-    "se necesita saber algo de IA para ingresar?",
-    "necesito saber programación para estudiar IA",
-    "hay curso de ingreso?"
-  ],
-  
-  "contacto": [
+   "contacto": [
     "contacto unsta",
     "correo de contacto",
     "mail de contacto",
     "teléfono de la universidad",
     "cómo me comunico con la unsta",
     "dónde puedo escribir para pedir información"
+  ],
+  "plan_estudios_ing_ia": [
+    "materias de ingeniería en inteligencia artificial",
+    "plan de estudios de ingeniería en inteligencia artificial",
+    "qué se estudia en ingeniería en inteligencia artificial",
+    "qué materias tiene la carrera de inteligencia artificial",
+    "cuáles son las asignaturas de ingeniería en IA",
+    "qué materias cursa un ingeniero en inteligencia artificial",
+    "qué materias hay en ingeniería en IA",
+    "qué se cursa en la carrera de inteligencia artificial",
+    "qué materias forman parte del plan de estudios de IA",
+    "que materias tiene la carrera de ing en IA",
+    "que se cursa en ing en IA",
+    "que se ve en ing en IA",
+    "que materias hay en ing en IA"
+  ],
+  "descripcion_carrera_ing_ia": [
+    "qué es la carrera de IA",
+    "descripción de la carrera",
+    "de qué trata la ingeniería en IA",
+    "como es la carrera de ingeniería en inteligencia artificial",
+    "que se ve en la carrera de ing en IA",
+    "como es la carrera de ing en IA"
+  ],
+  "perfil_profesional_ing_ia": [
+    "perfil del ingeniero en IA",
+    "qué hace un ingeniero en IA",
+    "objetivo profesional de la carrera",
+    "salidas laborales del ingeniero en IA",
+    "campo laboral de la carrera"
+  ],
+ 
+  "duracion_carrera_ing_ia": [
+    "cuánto dura la carrera en ing ia",
+    "duración de ingeniería en IA",
+    "duración de la carrera ing ia",
+    "cuántos años dura la carrera en ing ia",
+    "que tan larga es la carrera de ing ia",
+    "es larga la carrera de ing ia",
+    "cuántos años se tarda en recibirse de ing ia",
+    "de cuantos años es la carrera de ing ia",
+    "es larga la carrera de ingenieria en ia?",
+    "es larga la carrera de ingeniería en inteligencia artificial?"
+  ],
+
+  "conocimiento_previo_ing_ia": [
+    "conocimiento previo en ing ia",
+    "requisitos de ingreso a la carrera ing ia",
+    "se necesita saber algo de IA para ingresar?",
+    "necesito saber programación para estudiar IA",
+    "hay curso de ingreso? para ing ia"
+  ],
+  
+  "donde_se_cursa_IngIA": [
+    "dónde se cursa ing ia",
+    "lugar de cursada de ing ia",
+    "en qué campus se dicta ing ia",
+    "dónde se dicta la ingeniería en inteligencia artificial",
+    "lugar de cursada de la ingeniería en inteligencia artificial",
+    "en qué campus se dicta la ingeniería en inteligencia artificial"
   ],
 
   "despedida": [
@@ -79,5 +100,135 @@
     "muy amable",
     "gracias por responder",
     "gracias por la ayuda"
-  ]
+  ],
+
+  "temaBioingenieria": "========= Bioingeniería =======" ,
+
+  "plan_estudios_bioingenieria": [ "materias de bioingeniería", "plan de estudios de bioingeniería", "qué se estudia en bioingeniería" ], 
+  "descripcion_carrera_bioingenieria": [ "qué es bioingeniería", "de qué trata la bioingeniería", "qué enseña la carrera de bioingeniería" ], 
+  "perfil_profesional_bioingenieria": [ "qué hace un bioingeniero", "salidas laborales de bioingeniería", "campo profesional del bioingeniero" ],
+  "duracion_carrera_bioingenieria": [ "cuánto dura bioingeniería", "duración de la carrera de bioingeniería" ], 
+  "conocimiento_previo_bioingenieria": [ "requisitos para estudiar bioingeniería", "hay curso de ingreso para bioingeniería", "necesito saber biología o programación?" ], 
+  "donde_se_cursa_Bioingenieria": [ "dónde se cursa bioingeniería", "lugar de cursada de bioingeniería", "en qué campus se dicta bioingeniería" ],
+
+  "TemaIngInformatica": "========= Ingeniería Informática =======" ,
+
+  "plan_estudios_ing_informatica": [ "materias de ingeniería informática", "plan de estudios de ingeniería informática", "qué se estudia en ingeniería informática" ],
+  "descripcion_carrera_ing_informatica": [ "qué es ingeniería informática", "de qué trata la ingeniería informática", "qué enseña la carrera de ingeniería informática" ],
+  "perfil_profesional_ing_informatica": [ "qué hace un ingeniero informático", "campo laboral de ingeniería informática", "salidas laborales de ingeniería informática" ],
+  "duracion_carrera_ing_informatica": [ "cuánto dura ingeniería informática", "duración de la carrera de ingeniería informática" ],
+  "conocimiento_previo_ing_informatica": [ "requisitos para estudiar ingeniería informática", "se necesita saber programación?", "hay curso de ingreso para ingeniería informática?" ],
+  "donde_se_cursa_IngInformatica": [ "dónde se cursa ingeniería informática", "lugar de cursada de ingeniería informática", "en qué campus se dicta ingeniería informática" ],
+  
+  "temaIngIA": "========= Ingeniería en Inteligencia Artificial =======" ,
+  "temaIngIndustrial": "========= Ingeniería Industrial =======" ,
+  "plan_estudios_ing_industrial": [ "materias de ingeniería industrial", "plan de estudios de ingeniería industrial", "qué se estudia en ingeniería industrial" ],
+  "descripcion_carrera_ing_industrial": [ "qué es ingeniería industrial", "de qué trata la ingeniería industrial", "qué enseña la carrera de ingeniería industrial" ],
+  "perfil_profesional_ing_industrial": [ "qué hace un ingeniero industrial", "campo laboral de ingeniería industrial", "salidas laborales de ingeniería industrial" ],
+  "duracion_carrera_ing_industrial": [ "cuánto dura ingeniería industrial", "duración de la carrera de ingeniería industrial" ],
+  "conocimiento_previo_ing_industrial": [ "requisitos para estudiar ingeniería industrial", "se necesita saber matemáticas o física para la ingeniería industrial?", "hay curso de ingreso para ingeniería industrial?" ],
+  "donde_se_cursa_IngIndustrial": [ "dónde se cursa ingeniería industrial", "lugar de cursada de ingeniería industrial", "en qué campus se dicta ingeniería industrial" ],
+
+  "temaIngAmbiental": "========= Ingeniería Ambiental =======" ,
+
+  "plan_estudios_ing_ambiental": [ "materias de ingeniería ambiental", "plan de estudios de ingeniería ambiental", "qué se estudia en ingeniería ambiental" ], 
+  "descripcion_carrera_ing_ambiental": [ "qué es ingeniería ambiental", "de qué trata la ingeniería ambiental", "qué enseña la carrera de ingeniería ambiental" ],
+  "perfil_profesional_ing_ambiental": [ "qué hace un ingeniero ambiental", "campo laboral de ingeniería ambiental", "salidas laborales de ingeniería ambiental" ],
+  "duracion_carrera_ing_ambiental": [ "cuánto dura ingeniería ambiental", "duración de la carrera de ingeniería ambiental" ], 
+  "conocimiento_previo_ing_ambiental": [ "requisitos para estudiar ingeniería ambiental", "se necesita saber biología o química?", "hay curso de ingreso para ingeniería ambiental?" ],
+  "donde_se_cursa_IngAmbiental": [ "dónde se cursa ingeniería ambiental", "lugar de cursada de ingeniería ambiental", "en qué campus se dicta ingeniería ambiental" ],
+
+  "TemaTecnicaturaRobotica": "========= Tecnicatura en Robótica y Automatización =======" ,
+
+  "plan_estudios_tecnicatura_robotica": [ "materias de la tecnicatura en robótica", "plan de estudios de la tecnicatura en robótica", "qué se estudia en la tecnicatura en robótica" ],
+  "descripcion_carrera_tecnicatura_robotica": [ "qué es la tecnicatura en robótica y automatización", "de qué trata la tecnicatura en robótica y automatización", "qué enseña la tecnicatura en robótica y automatización" ],
+  "perfil_profesional_tecnicatura_robotica": [ "qué hace un técnico en robótica y automatización", "campo laboral de la tecnicatura en robótica", "salidas laborales de la tecnicatura en robótica" ],
+  "duracion_carrera_tecnicatura_robotica": [ "cuánto dura la tecnicatura de robótica", "duración de la tecnicatura en robótica y automatización" ],
+  "conocimiento_previo_tecnicatura_robotica": [ "requisitos para estudiar la tecnicatura en robótica", "se necesita saber programación o electrónica para la tecnicatura en robótica?", "hay curso de ingreso para la tecnicatura en robótica?" ],
+  "donde_se_cursa_tecnicatura_robotica": [ "dónde se cursa la tecnicatura en robótica", "lugar de cursada de la tecnicatura en robótica", "en qué campus se dicta la tecnicatura en robótica" ],
+
+  "temaTecDesarrollo": "========= Tecnicatura en Desarrollo y Calidad de Software =======" ,
+
+  "plan_estudios_tecnicatura_informatica": [ "materias de la tecnicatura en desarrollo y calidad de software", "plan de estudios de la tecnicatura en software", "qué se estudia en la tecnicatura en software" ], 
+  "descripcion_carrera_tecnicatura_informatica": [ "qué es la tecnicatura en desarrollo y calidad de software", "de qué trata la tecnicatura en software", "qué enseña la tecnicatura en desarrollo de software" ], 
+  "perfil_profesional_tecnicatura_informatica": [ "qué hace un técnico en desarrollo de software", "salidas laborales de la tecnicatura en software", "campo profesional del técnico en desarrollo y calidad de software" ],   "duracion_carrera_tecnicatura_informatica": [ "cuánto dura la tecnicatura en software", "duración de la tecnicatura en desarrollo y calidad de software" ],
+  "conocimiento_previo_tecnicatura_informatica": [ "requisitos para estudiar la tecnicatura en software", "se necesita saber programación?", "hay curso de ingreso para la tecnicatura?" ], 
+  "donde_se_cursaTecInformatica": [ "dónde se cursa la tecnicatura en software", "lugar de cursada de la tecnicatura en software", "en qué campus se dicta la tecnicatura en software" ],
+  
+  "opciones": [
+        "qué carrera sos?",
+        "qué haces?",
+        "qué opciones de carrera hay?",
+        "qué carreras hay?",
+        "qué carreras ofrecen?",
+        "qué carrera me conviene?",
+        "qué me recomiendas estudiar?",
+        "qué me aconsejas estudiar?",
+        "qué me sugerís estudiar?",
+        "qué me podés recomendar?",
+        "qué me podés sugerir?",
+        "qué me podés aconsejar?",
+        "me podés recomendar una carrera?",
+        "me podés sugerir una carrera?",
+        "me podés aconsejar una carrera?",
+        "qué sabés de la ingeniería en inteligencia artificial?",
+        "qué sabés de la ingeniería informática?",
+        "qué sabés de la ingeniería ambiental?",
+        "qué sabés de la bioingeniería?",
+        "qué sabés de la tecnicatura en robótica y automatización?",
+        "qué sabés de las carreras que ofrece la unsta?",
+        "me hablás de la ingeniería en inteligencia artificial?",
+        "me hablás de la ingeniería informática?",
+        "me hablás de la ingeniería ambiental?",
+        "me hablás de la bioingeniería?",
+        "me hablás de la tecnicatura en robótica y automatización?",
+        "me hablás de las carreras que ofrece la unsta?",
+        "qué opciones tengo?",
+        "qué opciones hay?",
+        "qué opciones ofrecen?",
+        "qué opciones ofrecen las carreras de ingeniería?",
+        "qué opciones ofrecen las carreras que ofrece la unsta?",
+        "qué opciones tengo en ingeniería?"
+      ],
+    "social_info_creacion": [
+      "quien te creó",
+      "quien te hizo",
+      "quien te programó",
+      "quien desarrolló este chatbot",
+      "quien te diseño",
+      "quien te entrenó",
+      "quien te construyó"
+    ],
+    "social_info_funcionamiento": [
+      "cómo funcionas",
+      "cómo trabajas",
+      "cómo operas",
+      "cómo procesas la información",
+      "cómo respondes",
+      "cómo generas las respuestas",
+      "cómo aprendes",
+      "cómo te entrenaron",
+      "cómo te entrenaron para responder",
+      "cómo te entrenaron para ayudarme",
+      "cómo te entrenaron para dar información",
+      "qué tecnología usás",
+      "qué tecnología utilizás",
+      "qué tecnología empleás",
+      "qué tecnología tenés",
+      "con qué tecnología trabajás",
+      "con qué tecnología operás",
+      "con qué tecnología funcionás"
+    ],
+    "social_habilidades": [
+      "qué podés hacer",
+      "qué funciones tenés",
+      "qué habilidades tenés",
+      "qué tareas realizás",
+      "qué tipo de preguntas me podés responder",
+      "qué información me podés brindar",
+      "qué temas manejás",
+      "qué sabés",
+      "qué conocés",
+      "qué tipo de dudas me podés resolver"
+    ]
 }
