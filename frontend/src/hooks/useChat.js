@@ -1,8 +1,17 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import { v4 as uuidv4 } from "uuid";
 
 const API_URL = process.env.REACT_APP_API_URL;
 
 export default function useChat() {
+  const [userId, setUserId] = useState(() => {
+    const existing = localStorage.getItem("chat_user_id");
+    if (existing) return existing;
+    const newId = uuidv4();
+    localStorage.setItem("chat_user_id", newId);
+    return newId;
+  });
+
   const [messages, setMessages] = useState([
     { sender: "bot", text: "¡Hola! Soy tu asistente UNSTA 🤖 estoy aquí para resolver tus dudas" },
   ]);
@@ -11,15 +20,14 @@ export default function useChat() {
   const sendMessage = async (userText) => {
     if (!userText.trim()) return;
 
-    const newUserMsg = { sender: "user", text: userText };
-    setMessages((prev) => [...prev, newUserMsg]);
+    setMessages((prev) => [...prev, { sender: "user", text: userText }]);
     setLoading(true);
 
     try {
       const res = await fetch(API_URL, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ query: userText }),
+        body: JSON.stringify({ query: userText, user_id: userId }),
       });
 
       const data = await res.json();
