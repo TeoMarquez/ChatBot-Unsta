@@ -6,11 +6,12 @@
     "quién fundó la unsta"
   ],
    "historia_facultad": [
-    "historia de la facultad",
-    "origen de la facultad",
-    "cuándo se fundó la facultad",
+    "historia de la facultad de ingenieria",
+    "origen de la facultad de ingenieria",
     "fundación de la facultad de ingeniería",
-    "cuándo empezó la facultad de ingeniería"
+    "cuándo se inauguro la facultad de ingeniería",
+    "facultad de ingeniería unsta",
+    "facultad de ingeniería"
   ],
    "contacto": [
     "contacto unsta",
@@ -247,11 +248,16 @@
   "donde_se_cursaTecInformatica": [ "dónde se cursa la tecnicatura en software", "lugar de cursada de la tecnicatura en software", "en qué campus se dicta la tecnicatura en software" ],
   
   "opciones": [
-        "qué carrera sos?",
-        "qué haces?",
-        "qué opciones de carrera hay?",
         "qué carreras hay?",
         "qué carreras ofrecen?",
+        "qué carreras puedo estudiar?",
+        "carreras?",
+        "carreras que dictan",
+        "opciones?",
+        "que ha para estudiar?",
+        "que se puede estudiar?",
+        "qué carrera sos?",
+        "qué opciones de carrera hay?",
         "qué carrera me conviene?",
         "qué me recomiendas estudiar?",
         "qué me aconsejas estudiar?",
@@ -263,7 +269,6 @@
         "me podés sugerir una carrera?",
         "me podés aconsejar una carrera?",
         "qué sabés de las carreras que ofrece la unsta?",
-        "me hablás de la tecnicatura en robótica y automatización?",
         "me hablás de las carreras que ofrece la unsta?",
         "qué opciones tengo?",
         "qué opciones hay?",
