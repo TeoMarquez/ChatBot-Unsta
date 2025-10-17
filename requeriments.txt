@@ -1,0 +1,3 @@
+fastapi uvicorn[standard] sentence-transformers transformers torch spacy nltk
+python -m spacy download es_core_news_md
+python -m nltk.downloader wordnet
