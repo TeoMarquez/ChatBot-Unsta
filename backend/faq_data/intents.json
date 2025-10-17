@@ -18,7 +18,17 @@
     "mail de contacto",
     "teléfono de la universidad",
     "cómo me comunico con la unsta",
-    "dónde puedo escribir para pedir información"
+    "dónde puedo escribir para pedir información",
+    "donde puedo saber mas?",
+    "dónde puedo pedir información",
+    "dónde puedo pedir informes",
+    "dónde puedo comunicarme para pedir información",
+    "dónde puedo comunicarme para pedir informes",
+    "quiero saber mas",
+    "quiero pedir información",
+    "quiero inscribirme",
+    "quiero ver las instalaciones",
+    "quiero visitar la universidad"
   ],
   "plan_estudios_ing_ia": [
     "materias de ingeniería en inteligencia artificial",
@@ -104,23 +114,87 @@
 
   "temaBioingenieria": "========= Bioingeniería =======" ,
 
-  "plan_estudios_bioingenieria": [ "materias de bioingeniería", "plan de estudios de bioingeniería", "qué se estudia en bioingeniería" ], 
-  "descripcion_carrera_bioingenieria": [ "qué es bioingeniería", "de qué trata la bioingeniería", "qué enseña la carrera de bioingeniería" ], 
+  "plan_estudios_bioingenieria": [ 
+    "materias de bioingeniería",
+    "plan de estudios de bioingeniería", 
+    "qué se estudia en bioingeniería",
+    "qué materias tiene la carrera de bioingeniería",
+    "que materias tienen en bio?",
+    "qué se ve en bio?",
+    "materias de bio?",
+    "que cursan en bio?",
+    "cual es el plan de estudio de bio?",
+    "cuáles son las asignaturas de bioingeniería",
+    "qué materias cursa un bioingeniero",
+    "que se rinde en bio?",
+    "que materias hay en bio?",
+    "qué materias forman parte del plan de estudios de bioingeniería",
+    "qué materias forman parte del plan de estudios de bio"
+  ], 
+  "descripcion_carrera_bioingenieria": [ 
+    "qué es bioingeniería",
+    "de qué trata la bioingeniería",
+    "qué enseña la carrera de bioingeniería",
+    "como es bio?",
+    "contame de bio?",
+    "qué se ve en bio?",
+    "cómo es la carrera de bioingeniería",
+    "cómo es la carrera de bio?",
+    "y bio?",
+    "qué se estudia en bio?"
+  ], 
   "perfil_profesional_bioingenieria": [ "qué hace un bioingeniero", "salidas laborales de bioingeniería", "campo profesional del bioingeniero" ],
-  "duracion_carrera_bioingenieria": [ "cuánto dura bioingeniería", "duración de la carrera de bioingeniería" ], 
-  "conocimiento_previo_bioingenieria": [ "requisitos para estudiar bioingeniería", "hay curso de ingreso para bioingeniería", "necesito saber biología o programación?" ], 
-  "donde_se_cursa_Bioingenieria": [ "dónde se cursa bioingeniería", "lugar de cursada de bioingeniería", "en qué campus se dicta bioingeniería" ],
+  "duracion_carrera_bioingenieria": [
+    "cuánto dura bioingeniería",
+    "duración de la carrera de bioingeniería",
+    "cuántos años dura bioingeniería",
+    "que tan larga es la carrera de bioingeniería",
+    "cuanto dura bio?",
+    "es larga la carrera de bio?",
+    "cuántos años se tarda en recibirse de bioingeniería",
+    "que tan largo es bio?"
+  ], 
+  "conocimiento_previo_bioingenieria": [
+    "requisitos para estudiar bioingeniería",
+    "hay curso de ingreso para bioingeniería",
+    "necesito saber biología o programación?",
+    "se necesita saber biología o química para entrar a bio?",
+    "debo conocer algo antes de entrar a bio?",
+    "hay curso de ingreso para bio?",
+    "se necesita saber algo para entrar a bio?"
+  ], 
+  "donde_se_cursa_Bioingenieria": [
+    "dónde se cursa bioingeniería",
+    "lugar de cursada de bioingeniería",
+    "en qué campus se dicta bioingeniería",
+    "donde dan bio?",
+    "lugar de cursada de bio?",
+    "en qué campus se dicta bio?"
+  ],
 
   "TemaIngInformatica": "========= Ingeniería Informática =======" ,
 
   "plan_estudios_ing_informatica": [ "materias de ingeniería informática", "plan de estudios de ingeniería informática", "qué se estudia en ingeniería informática" ],
   "descripcion_carrera_ing_informatica": [ "qué es ingeniería informática", "de qué trata la ingeniería informática", "qué enseña la carrera de ingeniería informática" ],
   "perfil_profesional_ing_informatica": [ "qué hace un ingeniero informático", "campo laboral de ingeniería informática", "salidas laborales de ingeniería informática" ],
-  "duracion_carrera_ing_informatica": [ "cuánto dura ingeniería informática", "duración de la carrera de ingeniería informática" ],
+  "duracion_carrera_ing_informatica": [
+    "cuánto dura ingeniería informática",
+    "duración de la carrera de ingeniería informática",
+    "cuánto dura la carrera en ingeniería en informática",
+    "duración de ingeniería en informática",
+    "duración de la carrera ing en informática",
+    "cuántos años dura la carrera en ing en informática",
+    "que tan larga es la carrera de ing en informática",
+    "es larga la carrera de ing informatica",
+    "cuántos años se tarda en recibirse de ing informatica",
+    "de cuantos años es la carrera de ing informatica",
+    "es larga la carrera de ingenieria en informática?",
+    "es larga la carrera de ingeniería en informática?"
+  ],
+  
   "conocimiento_previo_ing_informatica": [ "requisitos para estudiar ingeniería informática", "se necesita saber programación?", "hay curso de ingreso para ingeniería informática?" ],
   "donde_se_cursa_IngInformatica": [ "dónde se cursa ingeniería informática", "lugar de cursada de ingeniería informática", "en qué campus se dicta ingeniería informática" ],
   
-  "temaIngIA": "========= Ingeniería en Inteligencia Artificial =======" ,
   "temaIngIndustrial": "========= Ingeniería Industrial =======" ,
   "plan_estudios_ing_industrial": [ "materias de ingeniería industrial", "plan de estudios de ingeniería industrial", "qué se estudia en ingeniería industrial" ],
   "descripcion_carrera_ing_industrial": [ "qué es ingeniería industrial", "de qué trata la ingeniería industrial", "qué enseña la carrera de ingeniería industrial" ],
@@ -140,8 +214,25 @@
 
   "TemaTecnicaturaRobotica": "========= Tecnicatura en Robótica y Automatización =======" ,
 
-  "plan_estudios_tecnicatura_robotica": [ "materias de la tecnicatura en robótica", "plan de estudios de la tecnicatura en robótica", "qué se estudia en la tecnicatura en robótica" ],
-  "descripcion_carrera_tecnicatura_robotica": [ "qué es la tecnicatura en robótica y automatización", "de qué trata la tecnicatura en robótica y automatización", "qué enseña la tecnicatura en robótica y automatización" ],
+  "plan_estudios_tecnicatura_robotica": [ 
+    "materias de la tecnicatura en robótica",
+    "plan de estudios de la tecnicatura en robótica",
+    "qué se estudia en la tecnicatura en robótica",
+    "qué materias tiene la tecnicatura en robótica y automatización",
+    "que materias tiene robotica?",
+    "que se ve en robotica?",
+    "materias de robotica?"
+  ],
+  "descripcion_carrera_tecnicatura_robotica": [
+    "qué es la tecnicatura en robótica y automatización", 
+    "de qué trata la tecnicatura en robótica y automatización", 
+    "qué enseña la tecnicatura en robótica y automatización",
+    "como es robotica?",
+    "contame de robotica?",
+    "qué se ve en robotica?",
+    "hablame de robotica",
+    "y robotica?"
+   ],
   "perfil_profesional_tecnicatura_robotica": [ "qué hace un técnico en robótica y automatización", "campo laboral de la tecnicatura en robótica", "salidas laborales de la tecnicatura en robótica" ],
   "duracion_carrera_tecnicatura_robotica": [ "cuánto dura la tecnicatura de robótica", "duración de la tecnicatura en robótica y automatización" ],
   "conocimiento_previo_tecnicatura_robotica": [ "requisitos para estudiar la tecnicatura en robótica", "se necesita saber programación o electrónica para la tecnicatura en robótica?", "hay curso de ingreso para la tecnicatura en robótica?" ],
@@ -171,16 +262,7 @@
         "me podés recomendar una carrera?",
         "me podés sugerir una carrera?",
         "me podés aconsejar una carrera?",
-        "qué sabés de la ingeniería en inteligencia artificial?",
-        "qué sabés de la ingeniería informática?",
-        "qué sabés de la ingeniería ambiental?",
-        "qué sabés de la bioingeniería?",
-        "qué sabés de la tecnicatura en robótica y automatización?",
         "qué sabés de las carreras que ofrece la unsta?",
-        "me hablás de la ingeniería en inteligencia artificial?",
-        "me hablás de la ingeniería informática?",
-        "me hablás de la ingeniería ambiental?",
-        "me hablás de la bioingeniería?",
         "me hablás de la tecnicatura en robótica y automatización?",
         "me hablás de las carreras que ofrece la unsta?",
         "qué opciones tengo?",
@@ -230,5 +312,43 @@
       "qué sabés",
       "qué conocés",
       "qué tipo de dudas me podés resolver"
+    ],
+    "Saludos": [
+      "hola",
+      "buenas",
+      "buen día",
+      "buenas tardes",
+      "buenas noches",
+      "qué tal",
+      "saludos"
+    ],
+
+    "Social_preguntas_generales": [
+      "como estas?",
+      "que tal?",
+      "como te va?",
+      "que hay de nuevo?",
+      "como andas?",
+      "todo bien?",
+      "todo tranqui?",
+      "que haces?"
+    ],
+
+    "Social_agradecimientos": [
+      "gracias",
+      "muchas gracias",
+      "te lo agradezco",
+      "muy amable",
+      "gracias por tu ayuda",
+      "gracias por la info",
+      "gracias por la información",
+      "te agradezco mucho",
+      "ah bien",
+      "perfecto",
+      "genial",
+      "estupendo",
+      "excelente",
+      "bien ahi",
+      "buenisimo"
     ]
 }

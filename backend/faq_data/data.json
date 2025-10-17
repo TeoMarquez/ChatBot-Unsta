@@ -5,8 +5,8 @@
   },
   
   "contacto": {
-    "short": "Podés contactarnos al correo info@unsta.edu.ar",
-    "long": "Para consultas administrativas o académicas, podés escribir a info@unsta.edu.ar o llamar al +54 381 123-4567."
+    "short": "Podés contactarnos al correo info@unsta.edu.ar o a traves de nuestra pagina Unsta.edu.ar",
+    "long": "Para consultas administrativas o académicas, podés escribirnos a info@unsta.edu.ar o llamar al +54 381 123-4567 o a traves de nuestra pagina Unsta.edu.ar."
   },
   
   "historia_facultad": {
@@ -15,9 +15,10 @@
   },
 
   "plan_estudios_ing_ia": {
-    "short": "El plan incluye materias de IA, programación y ciencia de datos.",
-    "long": "El plan de estudios incluye materias como Fundamentos de Inteligencia Artificial..."
+    "short": "El plan de estudios combina matemáticas, programación, ciencia de datos e inteligencia artificial aplicada, con una formación técnica y humanística.",
+    "long": "La carrera de Ingeniería en Inteligencia Artificial forma profesionales con una base sólida en matemáticas, programación y pensamiento computacional. Durante los primeros años se desarrollan competencias en cálculo, álgebra, estructuras de datos, algoritmos, física y bases de la programación. Luego, el recorrido avanza hacia asignaturas troncales como Fundamentos de Inteligencia Artificial, Ciencia de Datos, Big Data y Métodos Numéricos. En la etapa avanzada se profundiza en áreas aplicadas como Aprendizaje Automático (Machine Learning), Aprendizaje por Refuerzo, Redes Neuronales, Procesamiento del Lenguaje Natural y Visión Computacional. También se abordan campos interdisciplinarios como Bioinformática y Ciberseguridad, junto con espacios de formación humanística, economía, legislación y gestión empresarial. El trayecto culmina con un Proyecto Final Integrador que aplica los conocimientos adquiridos en un caso real de desarrollo e innovación en inteligencia artificial."
   },
+
   "descripcion_carrera_ing_ia": {
     "short": "La Ingeniería en IA forma profesionales capaces de diseñar sistemas inteligentes y automatizar procesos en distintos sectores.",
     "long": "La carrera responde a la necesidad de dar respuesta, desde la ingeniería, a los diferentes sectores de la sociedad, a la demanda de soluciones tecnológicas innovadoras relacionadas a sistemas inteligentes, aprendizaje de máquina, procesamiento de lenguaje natural, visión artificial y modelos bioinspirados. La formación incluye también contenidos humanísticos y reflexiones éticas sobre la IA."
@@ -177,10 +178,10 @@
     "Tengo conocimientos sobre ingeniería, bioingeniería, ambiental, industrial, electrónica, programación, robótica y mucho más."
   ],
   "opciones": [
-    "En la UNSTA podés estudiar carreras como Ingeniería en Informática, Bioingeniería, Ingeniería Industrial, Ingeniería Ambiental, y tecnicaturas en desarrollo de software y robótica.",
-    "La UNSTA ofrece varias opciones de estudio: ingenierías, tecnicaturas y programas de formación profesional.",
+    "En la facultad de ingeniería de UNSTA podés estudiar carreras como Ingeniería en Informática, Bioingeniería, Ingeniería Industrial, Ingeniería Ambiental, y tecnicaturas en desarrollo de software y robótica.",
+    "La facultad de ingeniería UNSTA ofrece varias opciones de estudio: Ingeniería en Informática, Bioingeniería, Ingeniería Industrial, Ingeniería Ambiental, y tecnicaturas en desarrollo de software y robótica.",
     "Podés estudiar carreras de ingeniería como Informática, Bioingeniería, Industrial, Ambiental, y tecnicaturas en software y robótica.",
-    "Las opciones de la UNSTA incluyen ingenierías y tecnicaturas orientadas a la tecnología, desarrollo y gestión."
+    "Las opciones de la UNSTA incluyen ingenierías y tecnicaturas orientadas a la tecnología, desarrollo y gestión. Algunas carreras son: Ingeniería en Informática, Bioingeniería, Ingeniería Industrial, Ingeniería Ambiental, y tecnicaturas en desarrollo de software y robótica"
   ],
   "social_info_creacion": [
     "Fui creado por Mateo Marquez, estudiante de primer año de Ingeniería en Inteligencia Artificial en UNSTA.",
@@ -200,6 +201,32 @@
     "Me alegra que estés bien. ¿Querés que te cuente algo sobre la UNSTA?",
     "Qué bueno que estés ocupado aprendiendo, ¡eso siempre suma!",
     "¡Excelente! Si te surge alguna duda sobre ingeniería, podés preguntarme."
-  ]
+  ],
 
+  "Social_agradecimientos": [
+    "no hay problema",
+    "de nada",
+    "para eso estoy",
+    "un gusto ayudarte",
+    "cuando quieras",
+    "a la orden",
+    "no olvides que estoy para ayudarte",
+    "siempre es un placer ayudarte",
+    "cualquier duda, aquí estaré"
+  ],
+  
+  "Saludos": [
+    "hola, como estas? soy el chatbot de la unsta, en que puedo ayudarte?",
+    "buenas, soy el asistente virtual de la unsta, en que puedo ayudarte?",
+    "hola! soy el chatbot de la unsta, que informacion necesitas?",
+    "buenas, soy el chatbot de la unsta, en que puedo ayudarte?"
+  ],
+
+  "Social_preguntas_generales": [
+    "Disfrutando el dia, ¿y vos? estoy aqui para resolver tus dudas sobre la unsta.",
+    "Todo bien, ¿y vos? si tenes alguna duda sobre la unsta, preguntame.",
+    "Muy bien, ¿y vos? si necesitas informacion sobre la unsta, estoy para ayudarte.",
+    "¡Excelente! Si te surge alguna duda sobre ingeniería, podés preguntarme.",
+    "Muy bien, disfrutando de la jornada. ¿En qué puedo ayudarte hoy con respecto a la UNSTA?"
+  ]
 }
